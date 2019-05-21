@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Labwork1: Hello World</title>
+<style>
+html {
+    background-color: #FFF0F5;
+}
+    body{
+        margin: 50px;
+        padding: 45px;
+        color: blue;
+    }
+    p{
+        font-size: 20px;
+        font-style: italic;
+    }
+</style>
+</head>
+<body>
+   
+<?php
+
+# Comments
+# Labwork1: Hello World
+# Created by Marcy Linares
+# Created August 29, 2018
+
+echo 'Hello, <strong>world</strong>!';
+
+
+?>
+<p> My name is <strong>Marcy Linares</strong>, I live in Canoga Park, Ca and I am taking this class because it comes within my Web Develpoment program. 
+ One of my favorite hobbies is 
+     <ul>
+        <li>go hiking</li>
+    <li> Camping</li>
+     <li>Cook</li>
+     <li>Watch Tv</li>
+     </ul>
+
+<p> My Favorite website is <a href="http://pinterest.com">Pinterest</a> and <a href="http://instagram.com"> Instagram </a> </p> 
+<p> Was this assignment easy for me? A little... I have knowledge of HTML I just I was not sure if the HTML tags had to go inside or outside the php tag</p>
+
+</body>
+</html>
